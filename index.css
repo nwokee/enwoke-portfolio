@@ -471,6 +471,13 @@ body:not(.user-is-tabbing) a:focus {
     flex: 0 0 30%;
 }
 
+.work__subtitle {
+    margin-top: -20px; 
+    margin-bottom: 5px; 
+    font-size: 0.9em; 
+    color: #777; 
+  }
+
 .work__list {
     /* list-style-type: square; */
     list-style-position: inside;
